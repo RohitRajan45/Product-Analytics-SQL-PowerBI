@@ -18,9 +18,17 @@ This repository showcases an end-to-end data analysis project focusing on produc
                 . What is the profit margin for each product or category?
                 . How many units were sold in the current period?
                 
--Dashboard Interaction <a href="https://github.com/RohitRajan45/Product-Analytics-SQL-PowerBI/blob/main/Screenshot%202024-11-29%20120231.png">view Dashboard</a>
 
-## Dashboard
+## My Dashboard Sample Images
 
 <img width="595" alt="Screenshot 2024-11-29 120231" src="https://github.com/user-attachments/assets/0cb484c2-7010-4440-af28-85cbfeda9a9e">
+
+## Project Insights
+                    . Revenue Growth: YoY revenue increase.
+                    . Profitability: High-profit categories identified.
+                    . Sales Volume: High demand in specific regions.
+                    . Top Products: Top 10 products drive revenue.
+
+## Conclusion
+                The dashboard provides key insights into revenue, profit, and sales trends, helping businesses optimize strategies, target high-demand areas, and improve profitability through data-driven decisions.
 
