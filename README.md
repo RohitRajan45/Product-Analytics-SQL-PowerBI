@@ -1,5 +1,5 @@
 # Product-Analytics-SQL-PowerBI
-This repository showcases an end-to-end data analysis project focusing on product performance analytics using SQL Server, Power BI
+This project involves creating a product analytics dashboard using Power BI to track and visualize key metrics such as revenue, profit, units sold, and sales trends. The dashboard provides insights into YoY performance, product profitability, discount effectiveness, and customer segmentation. It helps businesses make data-driven decisions to optimize sales strategies, improve profitability, and target high-demand regions.
 
 ## The project involves:
 
