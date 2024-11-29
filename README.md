@@ -11,3 +11,10 @@ This repository showcases an end-to-end data analysis project focusing on produc
 ## Tech Stack:
            SQL Server
             Power BI
+## Questions (KPIs)
+                .What is the total revenue for the selected period?
+                . What is the YoY (Year-over-Year) growth in revenue and profit?
+                . Which products or categories contribute the most to revenue?
+                . What is the profit margin for each product or category?
+                . How many units were sold in the current period?
+            
